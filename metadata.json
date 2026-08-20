@@ -1,0 +1,6 @@
+{
+  "name": "Family Remote Control",
+  "description": "A remote control app to manage and monitor family devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
